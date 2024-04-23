@@ -1,4 +1,4 @@
-# Nippon Data Analysis
+# Nippon Data Analysis 
 # Import Libraries: 
 - Import necessary libraries including pandas, numpy, seaborn, sklearn's KMeans, and matplotlib.
 - Read Data: Load the dataset using pd.read_csv().
