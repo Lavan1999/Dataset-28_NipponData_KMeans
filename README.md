@@ -15,5 +15,6 @@
 # Assigning Clusters: Predict the clusters for each data point in the dataset.
 # Analyzing Clusters:
 - Add the cluster labels to the DataFrame.
-- Count the number of data points in each cluster using .value_counts().
-# Output: Display the DataFrame with the assigned clusters.
+- Count the number of data points in each cluster using .value_counts()
+# Output: 
+- Display the DataFrame with the assigned clusters
